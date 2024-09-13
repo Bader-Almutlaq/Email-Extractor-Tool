@@ -1,4 +1,4 @@
-# KSU Web Crawler
+# Web Crawler Email Extractor
 
 ## Overview
 
